@@ -1,6 +1,10 @@
 # Automated-Paper-Evaluation
 
-In this modern age, where the world moves towards automation so, there is a need for automation in answer evaluation system. Currently, the online answer evaluation is available for mcq based question, hence evaluation of the theory answer is hectic for the checker. Teacher manually checks the answer and allot the marks. The current system takes more manpower and time to evaluate the answer.
+In this modern age, where the world moves towards automation so, there is a need for automation in answer evaluation system. Currently, the online answer evaluation is available for mcq based question, hence evaluation of the theory answer is hectic for the checker. Teacher manually checks the answer and allot the marks. The current system takes more manpower and time to evaluate the answer. Since in manual answer evaluation, the manpower and the time consumption is much more. Also, in the manual system, it may be possible that the marks given to two same answers are different. This application system provides an automatic evaluation of answer based on the syntax, semantics, cosine similarity of the answer. 
+
+We will be working on Word2Vec and LSTM model for achieving accuracy. We also worked on some simple Linear, Logistic, SVM, Naive Bayes Classifier models. Major thanks goes to NLTK library for the text pre-processing. 
+
+## We achieved a Cohen's Kappa score of 0.9491 on this dataset which is among one of the highest scores on this dataset.
 
 # About the Data
 
