@@ -18,7 +18,7 @@ iii.  essay: The ascii text of a student's response
 iv.   rater1_domain1: Rater 1's domain 1 score; all essays have this
 v.    rater2_domain1: Rater 2's domain 1 score; all essays have this
 vi.   rater3_domain1: Rater 3's domain 1 score; only some essays in set 8 have this.
-vi.   domain1_score: Resolved score between the raters; all essays have this
+vii.  domain1_score: Resolved score between the raters; all essays have this
 viii. rater1_domain2: Rater 1's domain 2 score; only essays in set 2 have this
 ix.   rater2_domain2: Rater 2's domain 2 score; only essays in set 2 have this
 x.    domain2_score: Resolved score between the raters; only essays in set 2 have this
